@@ -31,9 +31,9 @@ menarik, Selain itu, website ini memiliki tujuan lain seperti mempromosikan temp
 yang kurang terkenal, meningkatkan pengalaman wisatawan, serta mempromosikan
 kebudayaan dan warisan lokal.</p>
 <h3>FUNGSI PRODUK</h3>
-<p>● Website ini memungkinkan pengguna untuk mencari destinasi wisata berdasarkan</p>
+<p>● Website ini memungkinkan pengguna untuk mencari destinasi wisata berdasarkan
 berbagai kriteria seperti lokasi, jenis liburan (petualangan, budaya, santai, dll.),
-anggaran, dan tanggal perjalanan.
+anggaran, dan tanggal perjalanan.</p>
 <p>● Website ini memberikan rekomendasi tempat-tempat wisata yang sesuai dengan
 preferensi pengguna. Rekomendasi ini didasarkan pada algoritma yang
 mempertimbangkan berbagai faktor seperti ulasan pengguna sebelumnya, popularitas,
