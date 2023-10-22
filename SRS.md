@@ -1,9 +1,9 @@
 <h1>Spesifikasi Kebutuhan
 Perangkat Lunak
 Untuk
-Rekomendasi Tempat Wisata
-Versi 1.0</h1>
-Prepared by:
+Website Rekomendasi Tempat Wisata
+</h1>
+Disusun Oleh:
 <p>1. Dara Lembayung Kinasih 22091397050</p>
 <p>2. Dion Danianto 22091397058</p>
 <p>3. Putri Rizki Alifia 22091397073</p>
@@ -52,12 +52,28 @@ hiking, berkemah, atau olahraga ekstrem.</p>
 <p>5. Wisatawan Keluarga: Keluarga dengan anak-anak atau anggota keluarga yang
 beragam usia.</p>
 <br>
-Penjelasan : Berikut merupakan source code HTML dari “Tempat Rekomendasi Wisata”
 
-TAMPILAN WEBSITE
-<p>Pada tampilan awal ini di bagian pojok kiri atas terdapat nama website yang bernama
+<h3>LAMPIRAN</h3>
+
+FLOWCHART
+
+  ![flowchrt rekomendasi tempat wisata drawio (1) FIXX](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fd4b9bb5-6cfb-4f41-8663-24466d4f06f7)
+
+
+USECASE 
+
+  ![usecase drawio](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/1351776f-d6ad-4d6c-8748-120590dfed59)
+
+<h3>PENJELASAN</h3>
+
+<p>Source Code HTML</p>
+
+  
+<p>Tampilan Website</p>
+
+Pada tampilan awal ini di bagian pojok kiri atas terdapat nama website yang bernama
 “HeaLink” lalu terdapat 3 kota yang dapat dipilih oleh wisatawan. Pada setiap kota terdapat 3
 rekomendasi destinasi, untuk setiap tempat destinasi terdapat link video “Tonton Keindahan”
-yang akan diarahkan langsung ke youtube.</p>
-<p>Ini merupakan tampilan video yang terdapat pada fitur “Tonton Keindahan” yang diarahkan
-langsung ke video mengenai destinasi tersebut.</p>
+yang akan diarahkan langsung ke youtube.
+Ini merupakan tampilan video yang terdapat pada fitur “Tonton Keindahan” yang diarahkan
+langsung ke video mengenai destinasi tersebut.
