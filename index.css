@@ -1,0 +1,150 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+nav {
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    line-height: 50px;
+    position: sticky;
+    top: 0;
+    background: #ac1111;
+    z-index: 1;
+}
+.logo a {
+    font-size: 50px;
+    font-weight: 900;
+    float: left;
+    font-family: Courier;
+    color: #200274;
+}
+
+.menu {
+    float: right;
+
+}
+
+nav {
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    line-height: 50px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #FFFFFF;
+    z-index: 1;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a {
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: solid;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-right: 10pxn 0px 10px 0px;
+    display: flex;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.kolom {
+    margin-top: 100px;
+}
+
+.kolom .deskripsi {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'hitch';
+    color: #000000 ;
+    margin-top: 90px;
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #000000;
+    width: 100%;
+    line-height: 70px;
+}
+a.tbl-biru {
+    background: #219dc7;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 12px 20px 12px 20px;
+    color: #000000;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a.tbl-biru:hover{
+    background: #FF3FA4;
+    text-decoration: underline;
+}
+
+a.tbl-pink {
+    background: #FF3FA4;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #000000;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-pink:hover {
+background:#176B87;
+text-decoration: underline;
+}
+
+a.tbl-login {
+    background: #219dc7;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 12px 20px 12px 20px;
+    color: #000000;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-login:hover{
+    background: #FF3FA4;
+    text-decoration: underline;
+}
+p{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
