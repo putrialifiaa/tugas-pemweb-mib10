@@ -68,18 +68,18 @@ USECASE
 
 <p>Source Code HTML</p>
 
-  ![index bandung html](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/070d24f2-c3ce-4e8b-a0c3-579930be428c)
+  
 .....
 
-  ![index bandung html 2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/2fff1c8a-2715-4527-951c-86ba65ef719e)
+  
 .....
 
 <p>Source Code CSS</p>
 
-  ![index bandung css](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/b0ad3673-2cc6-43b2-916f-1c640adde062)
+ 
 ....
 
-  ![index bandung css 2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/d5a6fcee-204f-4108-8ebb-a1761965849b)
+  
 ...
 
 
