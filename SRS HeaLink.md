@@ -68,9 +68,11 @@ USECASE
 
 <p>Source Code HTML</p>
 
-  
+  ![index html](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/74738ce4-b8c3-4ca5-bc7c-49b083981699)
+
 .....
 
+  ![index html2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fae3cf88-0504-41bc-99f2-8ea250f61e29)
   
 .....
 
