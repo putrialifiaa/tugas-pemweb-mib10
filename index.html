@@ -32,7 +32,7 @@
         <div id="" class="card">
             <img src="1.png" alt="">
             <div id="" class="img-title">
-                <a href="bali.html"><h3>Bali</h3></a>
+                <a onclick="pop_up(0)"><h3>Bali</h3></a>
             </div>
         </div>
         <div id="" class="card">
@@ -83,6 +83,12 @@
     
 <!-- Buat Bawah-->    
 <section id=""></section>
-    
+
+<script>
+    function pop_up(list) {
+        var div_scroll = document.querySelectorAll(".container_desc");
+        div_scroll[list].classList.add("active");
+    }
+</script>
 </body>
 </html>
