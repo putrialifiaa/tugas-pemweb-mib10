@@ -29,25 +29,25 @@
         <p>HeaLink merupakan platform website yang menyediakan destinasi wisata yang sering dikunjungi oleh wisatawan mancanegara</p>
     </div>
     <div class="container">
-        <div id="" class="card">
+        <div onclick="pop_up(0)" id="" class="card">
             <img src="1.png" alt="">
             <div id="" class="img-title">
-                <a onclick="pop_up(0)"><h3>Bali</h3></a>
+                <a><h3>Bali</h3></a>
             </div>
         </div>
-        <div id="" class="card">
+        <div onclick="pop_up(1)" id="" class="card">
             <img src="2.png" alt="">
             <div id="" class="img-title">
                 <a href="malang.html"><h3>Malang</h3></a>
             </div>
         </div>
-        <div id="" class="card">
+        <div onclick="pop_up(2)" id="" class="card">
             <img src="3.png" alt="">
             <div id="" class="img-title">
                 <a href="jogja.html"><h3>Jogja</h3></a>
             </div>
         </div>
-        <div id="" class="card">
+        <div onclick="pop_up(3)" id="" class="card">
             <img src="4.png" alt="">
             <div id="" class="img-title">
                 <a href="bandung.html"><h3>Bandung</h3></a>
@@ -87,6 +87,9 @@
 <script>
     function pop_up(list) {
         var div_scroll = document.querySelectorAll(".container_desc");
+        div_scroll.forEach(function(new){
+            new.classList.remove("active");
+        })
         div_scroll[list].classList.add("active");
     }
 </script>
