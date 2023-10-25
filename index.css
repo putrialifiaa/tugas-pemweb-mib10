@@ -182,3 +182,19 @@ background:#FF3FA4;
 text-decoration: underline;
 color: #ffffff;
 }
+
+.container_desc {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffc24b;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.place {
+    margin: 20px 0;
+}
+.button_2{
+    text-align: center;
+}
