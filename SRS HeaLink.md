@@ -69,11 +69,34 @@ USECASE
 <p>Source Code HTML</p>
 
   ![index html](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/74738ce4-b8c3-4ca5-bc7c-49b083981699)
-
+<p>●'head' bagian ini berisi elemen-elemen yang berhubungan dengan informasi tentang halaman web, seperti karakter set, viewport, judul halaman, dan tautan ke berkas stylesheet eksternal.
+'meta charset="UTF-8" ' mendefinisikan karakter set UTF-8 untuk mengkodekan karakter teks dalam halaman.
+'meta name="viewport" content="width=device-width, initial-scale=1.0"' untuk mengatur pengaturan tampilan responsif dengan mengizinkan tampilan sesuai dengan lebar perangkat dan mengatur tingkat zoom awal ke 1.0.
+'title HeaLink/title' untuk menentukan judul halaman web yang akan ditampilkan di tab peramban.
+'link rel="stylesheet" href="index.css"' menghubungkan halaman web dengan berkas stylesheet eksternal yang disebut "index.css" untuk mengatur tampilan dan gaya halaman.
+'body' bagian ini berisi konten utama dari halaman web yang akan ditampilkan kepada pengguna. Ini termasuk elemen-elemen header, deskripsi, dan mungkin elemen lainnya yang belum ditampilkan dalam potongan kode yang Anda berikan.
+'header' elemen ini digunakan untuk menyusun bagian header halaman web, yang umumnya berisi elemen-elemen seperti logo dan menu navigasi.
+'nav' elemen ini digunakan untuk menandai bagian navigasi di dalam header.
+'div class="wrapper"' elemen ini digunakan untuk mengelompokkan elemen-elemen dalam header.
+'div class="logo" ' elemen ini menggambarkan logo dengan tautan ke halaman utama.
+'a href=""HeaLink/a' tautan teks "HeaLink" yang menghubungkan kembali ke halaman utama.
+'div class="menu" ' elemen ini menggambarkan menu navigasi.
+'ul' elemen ini digunakan untuk membuat daftar tak berurutan yang berisi elemen-elemen menu.
+'li a href="index.html"HOME/a/li' setiap item menu adalah tautan yang mengarah ke halaman yang sesuai. Ada tiga item menu di sini, yaitu "HOME," "ABOUT US," dan "DESTINASI".
+'div class="deskripsi" ' elemen ini berisi deskripsi atau teks yang menjelaskan halaman web.
+'h1 Selamat Datang HeaLink h1' Ini adalah judul utama halaman.
+'h2 Rekomendasi wisata HeaLink solusinya h2' ini adalah subjudul yang memberikan informasi lebih lanjut tentang halaman.
+'HeaLink merupakan platform website yang menyediakan destinasi wisata yang sering dikunjungi oleh wisatawan mancanegara' ini merupakan paragraf yang menjelaskan konten atau tujuan dari situs web "HeaLink".</p>
 
   ![index html2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fae3cf88-0504-41bc-99f2-8ea250f61e29)
-  
-.....
+<p>●'div class="container"' merupakan elemen kontainer yang digunakan untuk mengelompokkan kartu-kartu destinasi wisata ke dalam satu area.</p>
+<p>●'setiap destinasi wisata direpresentasikan oleh elemen 'div class="card"'  pada halaman ini ada empat destinasi yang ditampilkan.</p>
+<p>●' 'img src="1.png" alt="' merupakan elemen gambar yang digunakan untuk menampilkan gambar destinasi wisata pertama dengan sumber berkas "1.png".</p>
+<p>●'div id=""class="img-title">' ini merupakan elemen yang digunakan untuk mengelompokkan judul destinasi wisata.</p>
+<p>●' 'a href="bali.html"' merupakan tautan (anchor) ke halaman "bali.html" yang berisi judul "Bali" dengan ukuran teks yang diberi gaya h3. Ini akan mengarahkan pengguna ke halaman "Bali" ketika mereka mengklik judul tersebut. Elemen-elemen ini diulang untuk mewakili destinasi wisata yang berbeda dengan gambar, tautan, dan judul yang sesuai. </p>
+<p>●'div class="explore"' ini adalah elemen yang mungkin digunakan untuk mengelompokkan bagian "Explore Now." </p>
+<p>●'div class="button"' ini adalah elemen yang digunakan untuk mengelompokkan tombol "Explore Now." </p>
+<p>●'h3 Explore Nowh3' merupakan teks "Explore Now" yang diberikan gaya h3. </p>
 
 <p>Source Code CSS</p>
 
