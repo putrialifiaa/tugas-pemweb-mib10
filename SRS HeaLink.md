@@ -72,8 +72,14 @@ USECASE
 
 
   ![index html2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fae3cf88-0504-41bc-99f2-8ea250f61e29)
-  
-.....
+<p>●'div class="container"' merupakan elemen kontainer yang digunakan untuk mengelompokkan kartu-kartu destinasi wisata ke dalam satu area.</p>
+<p>●'setiap destinasi wisata direpresentasikan oleh elemen 'div class="card"'  pada halaman ini ada empat destinasi yang ditampilkan.</p>
+<p>●' 'img src="1.png" alt="' merupakan elemen gambar yang digunakan untuk menampilkan gambar destinasi wisata pertama dengan sumber berkas "1.png".</p>
+<p>●'div id=""class="img-title">' ini merupakan elemen yang digunakan untuk mengelompokkan judul destinasi wisata.</p>
+<p>●' 'a href="bali.html"' merupakan tautan (anchor) ke halaman "bali.html" yang berisi judul "Bali" dengan ukuran teks yang diberi gaya h3. Ini akan mengarahkan pengguna ke halaman "Bali" ketika mereka mengklik judul tersebut. Elemen-elemen ini diulang untuk mewakili destinasi wisata yang berbeda dengan gambar, tautan, dan judul yang sesuai. </p>
+<p>●'div class="explore"' ini adalah elemen yang mungkin digunakan untuk mengelompokkan bagian "Explore Now." </p>
+<p>●'div class="button"' ini adalah elemen yang digunakan untuk mengelompokkan tombol "Explore Now." </p>
+<p>●'h3 Explore Nowh3' merupakan teks "Explore Now" yang diberikan gaya h3. </p>
 
 <p>Source Code CSS</p>
 
