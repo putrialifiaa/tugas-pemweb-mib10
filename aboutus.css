@@ -83,3 +83,37 @@ html {
 .menu {
     float: right;
 }
+
+nav {
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    line-height: 70px;
+    position: sticky;
+    top: 0;
+    background: #006e4c;
+    z-index: 1;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a {
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: solid;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
