@@ -169,16 +169,69 @@ USECASE
 'margin-top: 30px;' untuk mengatur margin atas elemen sejauh 30 piksel.</p>
 
   ![index css 5](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/df4654e6-7959-4344-849e-a2be926a21dd)
-
-...
+<p>●pada bagian elemen 'deskripsi h2'
+'font-family; Arial, sans-serif;' digunakan untuk mengatur jenis font menjadi Arial atau font tanpa serif.
+'font-weight: 300;' untuk mengatur ketebalan font menjadi 300.
+'font-size: 20px;' untuk mengatur ukuran font menjadi 20 piksel.
+'text-align: center;' untuk mengatur teks agar berada di tengah.
+'color: #ffffff;' untuk mengatur warna teks menjadi putih (#ffffff).
+'width: 100%;' untuk mengatur lebar elemen h2 menjadi 100% dari lebar parentnya.</p>
+<p>●pada bagian elemen 'deskripsi p'
+'font-family: Arial, sans-serif;' untuk mengatur jenis font menjadi Arial atau font tanpa serif.
+'font-size: 18px;' untuk mengatur ukuran font menjadi 18 piksel.
+'text-align: center;' untuk mengatur teks agar berada di tengah.
+'color: #FFFFFF;' untuk mengatur warna teks menjadi putih (#ffffff).
+'font-weight: 100;' mengatur ketebalan font menjadi 100.
+'font-style: normal;' mengatur gaya font menjadi normal.
+'margin-top: 25px;' menambahkan jarak atas sebesar 25 piksel.</p>
+<p>●pada bagian elemen 'a.tbl-biru'
+'background: #ffff9b;' mengatur latar belakang tautan menjadi warna kuning (#ffff9b).
+'border-radius: 20px;' mengatur sudut tautan menjadi melengkung dengan jari-jari 20 piksel.
+'margin-top: 20px;' menambahkan jarak atas sebesar 20 piksel di atas tautan.
+'padding: 12px 20px 12px 20px;' menentukan padding pada tautan dengan jumlah piksel tertentu pada setiap sisi.
+'color: #000000;' mengatur warna teks pada tautan menjadi hitam (#000000).
+'cursor: pointer;:' mengubah kursor mouse saat di atas tautan menjadi tanda panah seperti tautan yang dapat diklik.
+'font-weight: bold;' mengatur teks pada tautan menjadi tebal.</p>
 
   ![index css 6](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/f79cea5e-e8b2-4b83-8fe5-f67f86b390d6)
+<p>●pada bagian elemen 'logo a'   
+'font-size: 50px;' mengatur ukuran font tautan menjadi 50 piksel.
+'font-weight: 550;' mengatur ketebalan font menjadi 550.
+'float: left;' mengatur elemen tautan untuk melayang ke kiri, sehingga elemen-elemen lainnya akan muncul di sebelah kanan.
+'font-family: Arial, sans-serif;' mengatur jenis font menjadi Arial atau font tanpa serif.
+'color: #ffffff;' mengatur warna teks pada tautan menjadi putih (#ffffff).</p>
+<p>●pada bagian elemen 'menu'
+'float: right;' mengatur elemen untuk melayang ke kanan, sehingga elemen-elemen lainnya akan muncul di sebelah kiri.</p>
+<p>●pada bagian elemen 'tbl-biru:hover'
+'background: #FF3FA4;' mengubah latar belakang tautan menjadi warna merah muda (#FF3FA4).
+'text-decoration: underline;' menggarisbawahi teks pada tautan.</p>
+<p>●pada bagian elemen 'button'
+'background: #ffff9b;' mengatur latar belakang elemen menjadi warna kuning muda (#ffff9b).
+'padding: 15px 20px;' menentukan padding pada elemen dengan jumlah piksel tertentu pada sisi atas dan bawah, serta sisi kiri dan kanan.
+'color: #000000;' mengatur warna teks pada elemen menjadi hitam (#000000).
+'cursor: pointer;' mengubah kursor mouse saat di atas elemen menjadi tanda panah seperti elemen yang dapat diklik.
+'font-weight: bold;' mengatur teks pada elemen menjadi tebal bold.
+'text-align: center;' mengatur teks agar berada di tengah elemen.</p>
 
-...
-
-  ![index css 7](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/ef3af089-8a17-4875-b15a-966cc41eea75)
-
-...
+ ![index css 8](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/514c6cce-cf49-4707-b290-ed64a9c46270)
+<p>●pada bagian elemen 'button:hover:'
+'background: #FF3FA4;' mengubah latar belakang elemen menjadi warna merah muda (#FF3FA4).
+'text-decoration: underline;' menggarisbawahi teks pada elemen.
+'color: #ffffff;' mengatur warna teks pada elemen menjadi putih (#ffffff).</p>
+<p>●pada bagian elemen '.container_desc:'
+'max-width: 800px;' mengatur lebar maksimum elemen menjadi 800 piksel.
+'margin: 20px auto;' memberikan jarak 20 piksel di sisi atas dan bawah serta menjadikan elemen berada di tengah secara horizontal.
+'padding: 20px;' menambahkan padding sebesar 20 piksel di sekeliling elemen.
+'background-color: #ffc24b;' mengatur warna latar belakang elemen menjadi oranye (#ffc24b).
+'border-radius: 5px;' mengatur sudut elemen menjadi melengkung dengan jari-jari 5 piksel.
+'box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);' menambahkan bayangan pada elemen dengan ketebalan 10 piksel dan transparansi yang diberikan oleh nilai rgba.
+'display: none;' mengatur elemen untuk tidak ditampilkan di halaman.</p>
+<p>●pada bagian elemen 'place'
+'margin: 20px 0;' memberikan jarak 20 piksel di sisi atas dan bawah elemen.</p>
+<p>●pada bagian elemen 'button_2'
+'text-align: center;' mengatur teks agar berada di tengah elemen.</p>
+<p>●pada bagian elemen 'active'
+'display: block;' mengatur elemen untuk ditampilkan yang sebelumnya diatur dengan display" none.</p> 
 
 <p>Tampilan Website</p>
 
