@@ -194,7 +194,7 @@ USECASE
 'font-weight: bold;' mengatur teks pada tautan menjadi tebal.</p>
 
   ![index css 6](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/f79cea5e-e8b2-4b83-8fe5-f67f86b390d6)
-<p>●pada bagian elemen 'logo a'
+<p>●pada bagian elemen 'logo a'   
 'font-size: 50px;' mengatur ukuran font tautan menjadi 50 piksel.
 'font-weight: 550;' mengatur ketebalan font menjadi 550.
 'float: left;' mengatur elemen tautan untuk melayang ke kiri, sehingga elemen-elemen lainnya akan muncul di sebelah kanan.
@@ -213,7 +213,7 @@ USECASE
 'font-weight: bold;' mengatur teks pada elemen menjadi tebal bold.
 'text-align: center;' mengatur teks agar berada di tengah elemen.</p>
 
-  ![index css 8](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124488011/d1d094bb-de19-41d5-9082-dec50c17b4bf)
+ ![index css 8](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/514c6cce-cf49-4707-b290-ed64a9c46270)
 <p>●pada bagian elemen 'button:hover:'
 'background: #FF3FA4;' mengubah latar belakang elemen menjadi warna merah muda (#FF3FA4).
 'text-decoration: underline;' menggarisbawahi teks pada elemen.
