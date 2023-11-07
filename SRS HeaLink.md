@@ -169,7 +169,7 @@ USECASE
 'margin-top: 30px;' untuk mengatur margin atas elemen sejauh 30 piksel.</p>
 
   ![index css 5](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/df4654e6-7959-4344-849e-a2be926a21dd)
-<p>●pada baguan elemen 'deskripsi h2'
+<p>●pada bagian elemen 'deskripsi h2'
 'font-family; Arial, sans-serif;' digunakan untuk mengatur jenis font menjadi Arial atau font tanpa serif.
 'font-weight: 300;' untuk mengatur ketebalan font menjadi 300.
 'font-size: 20px;' untuk mengatur ukuran font menjadi 20 piksel.
