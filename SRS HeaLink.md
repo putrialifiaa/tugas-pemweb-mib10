@@ -87,12 +87,8 @@ USECASE
 <h3>PENJELASAN</h3>
 
 <p>Source Code HTML</p>
-![index html login](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/ddccccff-5cd0-47ef-a45c-168a045cad06)
 
- 
-![index html login 2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/ead3df9d-4191-4fb7-82d2-28db2896ea00)
-
-  ![index html](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/74738ce4-b8c3-4ca5-bc7c-49b083981699)
+![index html login](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/d0a3896d-6a1f-4038-9b5b-1ea8b8a8373c)
 <p>●`!DOCTYPE html`: Mendefinisikan tipe dokumen HTML yang digunakan, dalam hal ini HTML5.</p>
 <p>●`html lang="en"`: Mulai dari elemen HTML, dengan atribut `lang` yang menunjukkan bahasa yang digunakan.</p>
 <p>●'	`head`: Bagian ini berisi informasi mengenai dokumen, seperti meta tag, tautan ke file eksternal, dan lainnya.
@@ -118,7 +114,8 @@ USECASE
 `header`: Penutup untuk elemen header.
 `nav`: Penutup untuk elemen nav.</p>
 
-  ![index html2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fae3cf88-0504-41bc-99f2-8ea250f61e29)
+
+  ![index html login 2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/ead3df9d-4191-4fb7-82d2-28db2896ea00)
 <p>●'div class="container"' merupakan elemen kontainer yang digunakan untuk mengelompokkan kartu-kartu destinasi wisata ke dalam satu area.</p>
 <p>●'setiap destinasi wisata direpresentasikan oleh elemen 'div class="card"'  pada halaman ini ada empat destinasi yang ditampilkan.</p>
 <p>●' 'img src="1.png" alt="' merupakan elemen gambar yang digunakan untuk menampilkan gambar destinasi wisata pertama dengan sumber berkas "1.png".</p>
