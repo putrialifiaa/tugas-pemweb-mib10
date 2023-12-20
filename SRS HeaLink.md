@@ -301,6 +301,9 @@ Gambar diatas merupakan tampilan video yang terdapat apabila button "Tonton Kein
 
 <p>PEMBAGIAN TUGAS</p> 
 
+ ![pembagian tugas web](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/5308143e-9359-4e5b-a59a-7a2b3f5c08f8)
+
+
 
 
 
