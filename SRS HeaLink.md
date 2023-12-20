@@ -24,6 +24,15 @@ sektor pariwisata, meningkatkan pengalaman wisatawan, dan mempromosikan kekayaan
 budaya lokal. Hal ini dapat memberikan manfaat ekonomi yang signifikan dan meningkatkan
 kepuasan para wisatawan. Oleh karena itu, pengembangan website semacam ini merupakan
 langkah yang penting dalam mendukung industri pariwisata yang berkelanjutan.</p>
+<h3>DASAR PERMASALAHAN</h3>
+<p>a.	Memberikan informasi yang berguna: 
+Memberikan informasi yang akurat, lengkap, dan berguna mengenai berbagai tempat wisata. Ini mencakup deskripsi destinasi, aktivitas yang dapat dilakukan, fasilitas yang tersedia, dan informasi praktis lainnya.</p>
+<p>b.	Kurangnya data yang akurat :
+Kurangnya data yang akurat mengenai gambaran destinasi yang ingin wisatawan kunjungi menjadikan tantangan. HeaLink hadir untuk memberikan informasi akurat dan terupdate mengenai rekomendasi destinasi yang wajib dikunjungi oleh para wisatawan.</p>
+<p>c.	Mempromosikan Destinasi Wisata Lokal:
+Memberikan eksposur dan dukungan kepada destinasi wisata lokal, membantu mempromosikan pariwisata lokal dan memberikan manfaat ekonomi kepada komunitas setempat</p>
+<h3>DESKRIPSI PRODUK</h3>
+<p>Website HeaLink merupakan sebuah platform online yang menyediakan rekomendasi tempat wisata dan informasi lengkap tentang berbagai destinasi wisata. Website ini dirancang untuk membantu pengguna dalam merencanakan perjalanan mereka dengan memberikan saran, ulasan, dan informasi praktis mengenai tempat-tempat yang dapat mereka kunjung</p>
 <h3>TUJUAN</h3>
 <p>Tujuan utama dari dibuatnya website “Rekomendasi Tempat Wisata” adalah untuk
 memudahkan para wisatawan saat berlibur untuk mengunjungi tempat-tempat yang baru dan
