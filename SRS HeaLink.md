@@ -91,7 +91,7 @@ USECASE
 ![index html login](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/d0a3896d-6a1f-4038-9b5b-1ea8b8a8373c)
 <p>●`!DOCTYPE html`: Mendefinisikan tipe dokumen HTML yang digunakan, dalam hal ini HTML5.</p>
 <p>●`html lang="en"`: Mulai dari elemen HTML, dengan atribut `lang` yang menunjukkan bahasa yang digunakan.</p>
-<p>●'	`head`: Bagian ini berisi informasi mengenai dokumen, seperti meta tag, tautan ke file eksternal, dan lainnya.
+<p>●`head`: Bagian ini berisi informasi mengenai dokumen, seperti meta tag, tautan ke file eksternal, dan lainnya.
 `link rel="stylesheet" href="login.html"`: Tautan ke file eksternal "login.html" yang mungkin berisi stylesheet (CSS) untuk mengatur tata letak halaman login.
 `link rel="stylesheet" href="aboutus.html"`: Tautan ke file eksternal "aboutus.html" yang mungkin berisi stylesheet untuk halaman "About Us".
 `link rel="stylesheet" href="index.html"`: Tautan ke file eksternal "index.html" yang mungkin berisi stylesheet untuk halaman utama.
@@ -285,11 +285,23 @@ USECASE
 
 <p>Tampilan Website</p>
 
-  ![tampilan web](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/a46fb4ae-c5e8-4da7-a06a-444788333e42)
-Pada tampilan awal terdapat nama website kami yang beranama "HeaLink" lalu pada pojok kanan terdapat 3 fitur yaitu Home, About Us, dan Destinasi. Pada fitur destinasi terdapat 4 kota yang dapat wisatawan pilih untuk melihat rekomendasi destinasi apa yang dapat mereka kunjungi di kota tersebut.
+  ![tampilan awal ](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/8728beb2-b56a-4b0f-a6ac-8c62b73c9d92)
+Pada tampilan awal terdapat nama website kami yang beranama "HeaLink" lalu pada pojok kanan terdapat 3 fitur yaitu Login, About Us, dan Destinasi. Pada fitur destinasi terdapat 4 kota yang dapat wisatawan pilih untuk melihat rekomendasi destinasi apa yang dapat mereka kunjungi di kota tersebut.
+
+![tampilan login](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/f05186ef-eb5f-4ddb-89e2-a940c444f413)
+Pada fitur login pengguna dapat memasukkan username dan password sebelum memasuki halaman berikutnya dan melihat destinasi yang tersedia pada website kami
+
 
   ![tampilan web 2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/46b618f9-0c83-4767-9dc1-22eb42107d89)
 Apabila salah satu destinasi di klik maka akan muncul tampilan seperti diatas. Setiap kota terdapat 3 rekomendasi destinasi yang dapat dikunjungi, Setiap tempat destinasi terdapat link video yang terdapat pada button "Tonton Keindahan" yang akan langsung diarahkan langsung ke youtube. 
   ![tampilan website 3](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fbb1033b-e31d-4dd0-bb84-66ce6b11ec7f)
 Gambar diatas merupakan tampilan video yang terdapat apabila button "Tonton Keindahan" diklik video tersebut berisi mengenai pemandangan yang akan disuguhkan di destinasi tersebut.
+
+<p>EXPORT DATABASE</p>
+
+<p>PEMBAGIAN TUGAS</p> 
+
+
+
+
 
