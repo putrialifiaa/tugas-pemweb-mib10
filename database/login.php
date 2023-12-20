@@ -25,14 +25,55 @@ if ($result->num_rows > 0) {
 
         // Redirect ke halaman HTML setelah login (ganti 'dashboard.html' dengan nama file HTML yang diinginkan)
         header("Location: ../html-css/index.html");
-        exit(); // Pastikan untuk keluar dari skrip setelah melakukan pengalihan header
+        exit();
     } else {
-        echo "Login failed. Incorrect password.";
+        // Password salah, tampilkan pesan kesalahan di halaman login
+        $error_message = "Password salah, silahkan coba lagi.";
     }
 } else {
-    echo "Login failed. User not found.";
+    // User tidak ditemukan, tampilkan pesan kesalahan di halaman login
+    $error_message = "User tidak ditemukan, silahkan coba lagi.";
 }
 
 // Tutup koneksi database
 $db->close();
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="login-style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+</head>
+<body>
+
+    <div class="login-container">
+        <h2>Login</h2>
+        <form class="login-form" action="login.php" method="post">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+        
+            <?php
+    // Tampilkan pesan kesalahan jika ada
+    if (isset($error_message)) {
+        echo "<div style='color: red;'>$error_message</div>";
+    }
+    ?>
+            <div class="form-group">
+                <button type="submit">Login</button>
+                
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
