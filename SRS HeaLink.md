@@ -25,14 +25,22 @@ budaya lokal. Hal ini dapat memberikan manfaat ekonomi yang signifikan dan menin
 kepuasan para wisatawan. Oleh karena itu, pengembangan website semacam ini merupakan
 langkah yang penting dalam mendukung industri pariwisata yang berkelanjutan.</p>
 <h3>DASAR PERMASALAHAN</h3>
-<p>a.	Memberikan informasi yang berguna: 
+<p>A.	Memberikan informasi yang berguna: 
 Memberikan informasi yang akurat, lengkap, dan berguna mengenai berbagai tempat wisata. Ini mencakup deskripsi destinasi, aktivitas yang dapat dilakukan, fasilitas yang tersedia, dan informasi praktis lainnya.</p>
-<p>b.	Kurangnya data yang akurat :
+<p>B.	Kurangnya data yang akurat :
 Kurangnya data yang akurat mengenai gambaran destinasi yang ingin wisatawan kunjungi menjadikan tantangan. HeaLink hadir untuk memberikan informasi akurat dan terupdate mengenai rekomendasi destinasi yang wajib dikunjungi oleh para wisatawan.</p>
-<p>c.	Mempromosikan Destinasi Wisata Lokal:
+<p>C.	Mempromosikan Destinasi Wisata Lokal:
 Memberikan eksposur dan dukungan kepada destinasi wisata lokal, membantu mempromosikan pariwisata lokal dan memberikan manfaat ekonomi kepada komunitas setempat</p>
 <h3>DESKRIPSI PRODUK</h3>
 <p>Website HeaLink merupakan sebuah platform online yang menyediakan rekomendasi tempat wisata dan informasi lengkap tentang berbagai destinasi wisata. Website ini dirancang untuk membantu pengguna dalam merencanakan perjalanan mereka dengan memberikan saran, ulasan, dan informasi praktis mengenai tempat-tempat yang dapat mereka kunjung</p>
+<h3>DAFTAR FITUR</h3>
+<p>Fitur-fitur yang terdapat pada website rekomendasi tempat wisata yaitu:</p>
+<p>1.	Login
+Fitur login digunakan untuk pengguna yang telah terdaftar dan memiliki akun untuk masuk ke website HeaLink. Pada fitur login ini pengguna memasukkan username dan password yang telah mereka daftarkan. Apabila pengguna telah melakukan login pengguna dapat mengeksplor destinasi wisata yang terdapat pada website kita.</p> 
+<p>2.	Destinasi
+Pada fitur ini dapat ditemukan berbagai destinasi wisata dari berbagai penjuru dunia. Mulai dari tempat-tempat eksotis, kota-kota metropolitan, hingga destinasi alam yang menakjubkan.</p>
+<p>3.	About Us
+Pada fitur About Us berisi mengenai deskripsi singkat dan tujuan dari tim pengembang website tersebut. Serta, terdapat profile singkat tim pengembang mulai dari nama, peran, foto, serta email.</p>
 <h3>TUJUAN</h3>
 <p>Tujuan utama dari dibuatnya website “Rekomendasi Tempat Wisata” adalah untuk
 memudahkan para wisatawan saat berlibur untuk mengunjungi tempat-tempat yang baru dan
@@ -47,7 +55,7 @@ anggaran, dan tanggal perjalanan.</p>
 preferensi pengguna. Rekomendasi ini didasarkan pada algoritma yang
 mempertimbangkan berbagai faktor seperti ulasan pengguna sebelumnya, popularitas,
 cuaca saat ini, dan keamanan.</p>
-<h3>KELAS PENGGUNA DAN KARAKTERISTIK</h3>
+<h3>DAFTAR PENGGUNA</h3> 
 <p>Ketika mengembangkan rekomendasi tempat wisata, penting untuk memahami
 karakteristik dan preferensi kelas pengguna yang berbeda ini. Dengan demikian, produk
 rekomendasi tempat wisata dapat disesuaikan dengan kebutuhan dan preferensi
@@ -67,35 +75,48 @@ beragam usia.</p>
 FLOWCHART
 
   ![flowchrt rekomendasi tempat wisata drawio (1) FIXX](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fd4b9bb5-6cfb-4f41-8663-24466d4f06f7)
-
+<p>Proses dimulai dari pengguna membuka website HeaLink dan melakukan login akun. Apabila pengguna belum memiliki akun dapat melakukan registrasi akun terlebih dahulu.  Setelah itu akan masuk ke halaman pertama, dimana terdapat list rekomendasi 4 kota yang paling sering dikunjungi oleh para wisatawan, yang di setiap kotanya terdapat 3 destinasi yang kami rekomendasikan. Apabila salah satu destinasi dipilih maka terdapat button “Tonton Keindahan” yang akan menuju ke video youtube tentang website tersebut.</p>
 
 USECASE 
 
   ![usecase drawio](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/1351776f-d6ad-4d6c-8748-120590dfed59)
+<p>•	User : orang yang dapat melakukan penelusuran, melihat destinasi serta memberikan komentar terhadap destinasi wisata yang diberikan. </p>
+<p>•	Admin : admin disini berfungsi untuk melakukan penelusuran, melihat destinasi, memberikan komentar, melakukan penambahan data destinasi, serta melakukan pengeditan dan penghapusan data destinasi pada website.</p>
+
 
 <h3>PENJELASAN</h3>
 
 <p>Source Code HTML</p>
+![index html login](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/ddccccff-5cd0-47ef-a45c-168a045cad06)
+
+ 
+![index html login 2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/ead3df9d-4191-4fb7-82d2-28db2896ea00)
 
   ![index html](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/74738ce4-b8c3-4ca5-bc7c-49b083981699)
-<p>●'head' bagian ini berisi elemen-elemen yang berhubungan dengan informasi tentang halaman web, seperti karakter set, viewport, judul halaman, dan tautan ke berkas stylesheet eksternal.
-'meta charset="UTF-8" ' mendefinisikan karakter set UTF-8 untuk mengkodekan karakter teks dalam halaman.
-'meta name="viewport" content="width=device-width, initial-scale=1.0"' untuk mengatur pengaturan tampilan responsif dengan mengizinkan tampilan sesuai dengan lebar perangkat dan mengatur tingkat zoom awal ke 1.0.
-'title HeaLink/title' untuk menentukan judul halaman web yang akan ditampilkan di tab peramban.
-'link rel="stylesheet" href="index.css"' menghubungkan halaman web dengan berkas stylesheet eksternal yang disebut "index.css" untuk mengatur tampilan dan gaya halaman.
-'body' bagian ini berisi konten utama dari halaman web yang akan ditampilkan kepada pengguna. Ini termasuk elemen-elemen header, deskripsi, dan mungkin elemen lainnya yang belum ditampilkan dalam potongan kode yang Anda berikan.
-'header' elemen ini digunakan untuk menyusun bagian header halaman web, yang umumnya berisi elemen-elemen seperti logo dan menu navigasi.
-'nav' elemen ini digunakan untuk menandai bagian navigasi di dalam header.
-'div class="wrapper"' elemen ini digunakan untuk mengelompokkan elemen-elemen dalam header.
-'div class="logo" ' elemen ini menggambarkan logo dengan tautan ke halaman utama.
-'a href=""HeaLink/a' tautan teks "HeaLink" yang menghubungkan kembali ke halaman utama.
-'div class="menu" ' elemen ini menggambarkan menu navigasi.
-'ul' elemen ini digunakan untuk membuat daftar tak berurutan yang berisi elemen-elemen menu.
-'li a href="index.html"HOME/a/li' setiap item menu adalah tautan yang mengarah ke halaman yang sesuai. Ada tiga item menu di sini, yaitu "HOME," "ABOUT US," dan "DESTINASI".
-'div class="deskripsi" ' elemen ini berisi deskripsi atau teks yang menjelaskan halaman web.
-'h1 Selamat Datang HeaLink h1' Ini adalah judul utama halaman.
-'h2 Rekomendasi wisata HeaLink solusinya h2' ini adalah subjudul yang memberikan informasi lebih lanjut tentang halaman.
-'HeaLink merupakan platform website yang menyediakan destinasi wisata yang sering dikunjungi oleh wisatawan mancanegara' ini merupakan paragraf yang menjelaskan konten atau tujuan dari situs web "HeaLink".</p>
+<p>●`!DOCTYPE html`: Mendefinisikan tipe dokumen HTML yang digunakan, dalam hal ini HTML5.</p>
+<p>●`html lang="en"`: Mulai dari elemen HTML, dengan atribut `lang` yang menunjukkan bahasa yang digunakan.</p>
+<p>●'	`head`: Bagian ini berisi informasi mengenai dokumen, seperti meta tag, tautan ke file eksternal, dan lainnya.
+`link rel="stylesheet" href="login.html"`: Tautan ke file eksternal "login.html" yang mungkin berisi stylesheet (CSS) untuk mengatur tata letak halaman login.
+`link rel="stylesheet" href="aboutus.html"`: Tautan ke file eksternal "aboutus.html" yang mungkin berisi stylesheet untuk halaman "About Us".
+`link rel="stylesheet" href="index.html"`: Tautan ke file eksternal "index.html" yang mungkin berisi stylesheet untuk halaman utama.
+`meta charset="UTF-8"`: Mendefinisikan pengkodean karakter untuk dokumen sebagai UTF-8, yang mendukung karakter internasional.
+`meta name="viewport" content="width=device-width, initial-scale=1.0"`: Menyesuaikan tampilan situs agar sesuai dengan lebar perangkat dan memberikan skala awal 1.0.
+`title HeaLink title`: Menentukan judul atau nama situs yang akan ditampilkan pada tab peramban.
+`link rel="stylesheet" href="index.css"`: Tautan ke file stylesheet "index.css" yang mungkin mengatur tata letak dan gaya elemen di halaman utama.</p>
+<p>●`body`: Mulai dari bagian body yang berisi konten tampilan halaman web.
+`header`: Bagian ini mencakup elemen-elemen header atau kepala halaman, seperti menu navigasi.
+`nav`: Bagian ini menunjukkan area navigasi, yang biasanya berisi menu atau tautan ke halaman-halaman lain.
+`div class="wrapper"`: Menggunakan elemen div dengan kelas "wrapper" untuk membungkus elemen-elemen dalam header. Ini umumnya digunakan untuk mengatur tata letak dan gaya dengan CSS.
+`div class="logo" a href=""HeaLink a div`: Menampilkan logo "HeaLink" sebagai tautan ke halaman yang mungkin merupakan halaman utama. `div class="menu"`: Bagian ini menampilkan menu navigasi.
+`ul`: Unordered list (daftar tanpa urutan) untuk menampilkan tautan navigasi.
+`li a href="../database/login.html"LOG OUT/a/li`: Tautan untuk proses log out yang mengarah ke "login.html" di dalam direktori "database".
+`li a href="aboutus.html"ABOUT US/a/li`: Tautan ke halaman "About Us" yang berada dalam direktori yang sama.
+`li a href="index.html" class="tbl-biru"DESTINASI/a/li`: Tautan ke halaman "Destinasi" yang mungkin berada dalam direktori yang sama, dan memiliki kelas CSS "tbl-biru" untuk pengaturan gaya.
+`ul`: Penutup untuk unordered list.
+`div`: Penutup untuk elemen div dengan kelas "menu".
+`div`: Penutup untuk elemen div dengan kelas "wrapper".
+`header`: Penutup untuk elemen header.
+`nav`: Penutup untuk elemen nav.</p>
 
   ![index html2](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fae3cf88-0504-41bc-99f2-8ea250f61e29)
 <p>●'div class="container"' merupakan elemen kontainer yang digunakan untuk mengelompokkan kartu-kartu destinasi wisata ke dalam satu area.</p>
