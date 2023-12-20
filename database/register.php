@@ -19,7 +19,9 @@ $query = "INSERT INTO users (username, password) VALUES ('$username', '$password
 $result = $db->query($query);
 
 if ($result) {
-    echo "Registration successful. <a href='login.html'>Login</a>";
+    // Registrasi berhasil, alihkan ke halaman login
+    header("Location: login.html");
+    exit();
 } else {
     echo "Registration failed. Please try again.";
 }
