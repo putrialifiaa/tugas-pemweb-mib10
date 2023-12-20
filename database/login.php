@@ -1,8 +1,8 @@
 <?php
 session_start();
 
-// Koneksi ke database
-$db = new mysqli("localhost", "username", "password", "mydatabase");
+// Koneksi ke database (sesuaikan dengan informasi koneksi database Anda)
+$db = new mysqli("localhost", "root", "", "mydatabase");
 
 if ($db->connect_error) {
     die("Connection failed: " . $db->connect_error);
@@ -20,7 +20,12 @@ if ($result->num_rows > 0) {
     $row = $result->fetch_assoc();
     // Verifikasi password
     if (password_verify($password, $row['password'])) {
-        echo "Login successful. Welcome, $username!";
+        // Set session untuk menandakan bahwa pengguna sudah login
+        $_SESSION['username'] = $username;
+
+        // Redirect ke halaman HTML setelah login (ganti 'dashboard.html' dengan nama file HTML yang diinginkan)
+        header("Location: ../html-css/index.html");
+        exit(); // Pastikan untuk keluar dari skrip setelah melakukan pengalihan header
     } else {
         echo "Login failed. Incorrect password.";
     }

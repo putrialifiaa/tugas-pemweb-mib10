@@ -1,6 +1,10 @@
 <?php
+$host = 'localhost';
+$username = 'root';
+$password = '';
+$database = 'mydatabase';
 // Koneksi ke database
-$db = new mysqli("localhost", "username", "password", "mydatabase");
+$db = new mysqli("localhost", "root", "", "mydatabase");
 
 if ($db->connect_error) {
     die("Connection failed: " . $db->connect_error);
