@@ -299,6 +299,12 @@ Gambar diatas merupakan tampilan video yang terdapat apabila button "Tonton Kein
 
 <h3>EXPORT DATABASE</h3>
 
+
+
+![WhatsApp Image 2023-12-21 at 18 18 03_00898b14](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/c3b2d528-22d9-4a39-af01-38d63fd5d395)
+
+
+
 <h3>PEMBAGIAN TUGAS</h3> 
 
  ![pembagian tugas web](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/5308143e-9359-4e5b-a59a-7a2b3f5c08f8)
