@@ -297,9 +297,9 @@ Apabila salah satu destinasi di klik maka akan muncul tampilan seperti diatas. S
   ![tampilan website 3](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fbb1033b-e31d-4dd0-bb84-66ce6b11ec7f)
 Gambar diatas merupakan tampilan video yang terdapat apabila button "Tonton Keindahan" diklik video tersebut berisi mengenai pemandangan yang akan disuguhkan di destinasi tersebut.
 
-<h3>EXPORT DATABASE</h3>
+<h3>DATABASE</h3>
 
-
+![WhatsApp Image 2023-12-21 at 18 18 03_da2f13b0](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/fb446efd-3752-4409-8bfc-6acf670e7e0a)
 
 ![WhatsApp Image 2023-12-21 at 18 18 03_00898b14](https://github.com/putrialifiaa/tugas-pemweb-mib10/assets/124503792/c3b2d528-22d9-4a39-af01-38d63fd5d395)
 
